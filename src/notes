@@ -1,0 +1,39 @@
+# TO install this we use --
+npm i @auth0/auth0-react
+
+
+# API Reference  -- 
+https://auth0.github.io/auth0-react/functions/Auth0Provider.html
+
+Auth0Provider
+Auth0ProviderOptions
+useAuth0
+withAuth0
+withAuthenticationRequired
+
+# useAuth0 --
+Use the useAuth0 hook in your components to access authentication state (isLoading, isAuthenticated and user) 
+and authentication methods (loginWithRedirect and logout)
+
+# website of auth 0 --
+https://manage.auth0.com/dashboard/us/dev-66w78uiy6vqjyz1r/
+
+# documentation for auth0 --
+https://auth0.com/docs/quickstart/spa/react
+
+# CSS changes for login page --
+Inside the tool Universal Login is there , we can change the 
+"color"
+"fonts"
+"widgets"
+"Borders"
+"background Color or image"
+"Logo image"
+
+#login page we can make the custom text what we want --
+inside the advanced customization
+
+# Own template for email verification is paid we need to enable the email provider first
+# it has the free plan for 7500 user with unlimited logins 
+# Custom Domains also paid 
+
